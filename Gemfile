@@ -38,3 +38,5 @@ group :development do
   gem 'spring'
 end
 
+gem 'stripe'
+gem 'dotenv-rails', :groups => [:development, :test]
